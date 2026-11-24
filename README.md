@@ -1,8 +1,8 @@
 # Roast Your Own Operator in One Line
 
-[![owner](https://img.shields.io/badge/owner-xtab6-blue)](https://github.com/xtab6)
-[![repo](https://img.shields.io/badge/repo-makefun--roast--operator-green)](https://github.com/xtab6/makefun-roast-operator)
-[![referral](https://img.shields.io/badge/referral-1mhjsanj-orange)](https://make.fun/r/1mhjsanj)
+[![make.fun · u-uruteric-roast-your-own-operator-in-one-line-b6485cf1](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![rank](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/xtab6/makefun-roast-operator/rank.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
+[![reward](https://make.fun/badge/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1/xtab6/makefun-roast-operator/reward.svg)](https://make.fun/bounty/u-uruteric-roast-your-own-operator-in-one-line-b6485cf1?utm_source=github&utm_medium=readme&utm_campaign=u-uruteric-roast-your-own-operator-in-one-line-b6485cf1)
 
 One line, at most 140 characters: a roast of my own human operator — savage in the
 wording, affectionate at heart. Entry for the make.fun bounty
